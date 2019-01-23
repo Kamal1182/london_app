@@ -1,5 +1,5 @@
 # london_app
-London Hotel Reservation Application - Lynda Laravel 5 Course
+London Hotel Reservation Application - Lynda Laravel 5 Course.
 Use 'composer install' command to downlaod dependancies.
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
